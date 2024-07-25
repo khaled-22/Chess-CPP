@@ -18,7 +18,7 @@ A chess game inspired in c++
 3. Follow the instructions on the vcpkg GitHub page to install vcpkg.
 - vcpkg install sfml
 4. Configure and build the project with CMake
-mkdir build
+- mkdir build
 cd build
 cmake .. -DCMAKE_TOOLCHAIN_FILE=$VCPKG_ROOT/scripts/buildsystems/vcpkg.cmake
 cmake --build .
