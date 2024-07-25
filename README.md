@@ -1,5 +1,6 @@
 # Chess-game in c++
-A chess game inspired in c++
+A chess game inspired in c++ implemented using SFML, organized with the MVC pattern, and managed with CMake and vcpkg.
+
 
 # Libaries 
 - Docs:https://www.sfml-dev.org/documentation/2.6.1-fr/
@@ -7,10 +8,12 @@ A chess game inspired in c++
 - RAII for resource management to ensure clean and efficient use of resources.
 
 ## Prerequisites
-
 - CMake (version 3.10 or higher)
 - vcpkg for dependency management
 - SFML (managed by vcpkg)
+
+# MVC
+- https://www.geeksforgeeks.org/mvc-framework-introduction/
 
 # How to Install from zero 
 1. git clone https://github.com/khaled-22/Chess-CPP.git
