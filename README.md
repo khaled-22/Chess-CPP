@@ -20,5 +20,5 @@ A chess game inspired in c++
 4. Configure and build the project with CMake
 - mkdir build
 cd build
-cmake .. -DCMAKE_TOOLCHAIN_FILE=$VCPKG_ROOT/scripts/buildsystems/vcpkg.cmake
-cmake --build .
+- cmake .. -DCMAKE_TOOLCHAIN_FILE=$VCPKG_ROOT/scripts/buildsystems/vcpkg.cmake
+- cmake --build .
