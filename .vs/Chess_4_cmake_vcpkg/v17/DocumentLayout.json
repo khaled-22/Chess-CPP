@@ -1,0 +1,106 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Skole\\C\u002B\u002B\\Chess_cmake\\Chess_4_cmake_vcpkg\\Chess_4_cmake_vcpkg\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Skole\\C\u002B\u002B\\Chess_cmake\\Chess_4_cmake_vcpkg\\Chess_4_cmake_vcpkg\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Skole\\C\u002B\u002B\\Chess_cmake\\Chess_4_cmake_vcpkg\\Chess_4_cmake_vcpkg\\Controller\\ChessGame.cpp||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Controller\\ChessGame.cpp||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Skole\\C\u002B\u002B\\Chess_cmake\\Chess_4_cmake_vcpkg\\Chess_4_cmake_vcpkg\\Controller\\ChessGame.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Controller\\ChessGame.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Skole\\C\u002B\u002B\\Chess_cmake\\Chess_4_cmake_vcpkg\\Chess_4_cmake_vcpkg\\CMakeLists.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CMakeLists.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Skole\\C\u002B\u002B\\Chess_cmake\\Chess_4_cmake_vcpkg\\Chess_4_cmake_vcpkg\\Chess_4_cmake_vcpkg.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Chess_4_cmake_vcpkg.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Skole\\C\u002B\u002B\\Chess_cmake\\Chess_4_cmake_vcpkg\\Chess_4_cmake_vcpkg\\main.cpp",
+              "RelativeDocumentMoniker": "main.cpp",
+              "ToolTip": "C:\\Skole\\C\u002B\u002B\\Chess_cmake\\Chess_4_cmake_vcpkg\\Chess_4_cmake_vcpkg\\main.cpp",
+              "RelativeToolTip": "main.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-07-31T09:44:44.709Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ChessGame.cpp",
+              "DocumentMoniker": "C:\\Skole\\C\u002B\u002B\\Chess_cmake\\Chess_4_cmake_vcpkg\\Chess_4_cmake_vcpkg\\Controller\\ChessGame.cpp",
+              "RelativeDocumentMoniker": "Controller\\ChessGame.cpp",
+              "ToolTip": "C:\\Skole\\C\u002B\u002B\\Chess_cmake\\Chess_4_cmake_vcpkg\\Chess_4_cmake_vcpkg\\Controller\\ChessGame.cpp",
+              "RelativeToolTip": "Controller\\ChessGame.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-16T17:30:44.344Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ChessGame.h",
+              "DocumentMoniker": "C:\\Skole\\C\u002B\u002B\\Chess_cmake\\Chess_4_cmake_vcpkg\\Chess_4_cmake_vcpkg\\Controller\\ChessGame.h",
+              "RelativeDocumentMoniker": "Controller\\ChessGame.h",
+              "ToolTip": "C:\\Skole\\C\u002B\u002B\\Chess_cmake\\Chess_4_cmake_vcpkg\\Chess_4_cmake_vcpkg\\Controller\\ChessGame.h",
+              "RelativeToolTip": "Controller\\ChessGame.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-08-16T17:30:32.744Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CMakeLists.txt",
+              "DocumentMoniker": "C:\\Skole\\C\u002B\u002B\\Chess_cmake\\Chess_4_cmake_vcpkg\\Chess_4_cmake_vcpkg\\CMakeLists.txt",
+              "RelativeDocumentMoniker": "CMakeLists.txt",
+              "ToolTip": "C:\\Skole\\C\u002B\u002B\\Chess_cmake\\Chess_4_cmake_vcpkg\\Chess_4_cmake_vcpkg\\CMakeLists.txt",
+              "RelativeToolTip": "CMakeLists.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-07-31T09:44:42.371Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Chess_4_cmake_vcpkg.h",
+              "DocumentMoniker": "C:\\Skole\\C\u002B\u002B\\Chess_cmake\\Chess_4_cmake_vcpkg\\Chess_4_cmake_vcpkg\\Chess_4_cmake_vcpkg.h",
+              "RelativeDocumentMoniker": "Chess_4_cmake_vcpkg.h",
+              "ToolTip": "C:\\Skole\\C\u002B\u002B\\Chess_cmake\\Chess_4_cmake_vcpkg\\Chess_4_cmake_vcpkg\\Chess_4_cmake_vcpkg.h",
+              "RelativeToolTip": "Chess_4_cmake_vcpkg.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-07-31T09:44:50.467Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

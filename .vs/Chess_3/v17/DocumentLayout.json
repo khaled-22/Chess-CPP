@@ -31,8 +31,7 @@
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2024-07-14T19:26:13.408Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
@@ -42,7 +41,7 @@
               "RelativeDocumentMoniker": "main.cpp",
               "ToolTip": "C:\\Skole\\C\u002B\u002B\\Chess_cmake\\Chess_3\\Chess_3\\main.cpp",
               "RelativeToolTip": "main.cpp",
-              "ViewState": "AQIAAFEAAAAAAAAAAAAAAMsAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-07-14T19:26:06.728Z",
               "EditorCaption": ""
